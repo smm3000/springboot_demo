@@ -1,9 +1,11 @@
-package com.example.demo;
-
-public class SmileController {
+public class Smile {
 
     Long id;
     Boolean isCrying;
     Boolean isLaughing;
+
+    public Smile() {
+
+    }
     
 }
